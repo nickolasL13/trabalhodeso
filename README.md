@@ -21,7 +21,7 @@ Como o programa depende de funcionalidades disponíveis apenas na versão experi
 1. Acesse o site oficial do Python: [https://www.python.org/](https://www.python.org/).
 2. Navegue até a seção de downloads e procure pela versão do Python 3.13.
 3. Baixe o instalador apropriado para o seu sistema operacional (Windows, macOS ou Linux).
-4. Siga as instruções desse pequeno [video]{https://www.youtube.com/watch?v=9uQoDGRs3H4} (menos de 2 minutos) de como instalar a versão de experimentação do Python3.13. 
+4. Siga as instruções desse pequeno (video){https://www.youtube.com/watch?v=9uQoDGRs3H4} (menos de 2 minutos) de como instalar a versão de experimentação do Python3.13. 
 5. Após a instalação, verifique se o Python 3.13 foi instalado corretamente executando o seguinte comando no terminal:
 
    ```bash
